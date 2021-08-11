@@ -19,6 +19,6 @@ s.resources = "IGLottieProgress/**/*.{png,jpeg,jpg,storyboard,xib}"
 
 s.dependency 'lottie-ios'
 s.swift_versions = '5.0'
-s.ios.deployment_target = '14.5'
+s.ios.deployment_target = '13.0'
 
 end
