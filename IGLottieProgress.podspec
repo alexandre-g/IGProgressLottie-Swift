@@ -4,7 +4,6 @@
 Pod::Spec.new do |s|
 s.platform = :iOS
 s.platform     = :ios, "9.0"
-s.ios.deployment_target = '14.0'
 s.name = "IGLottieProgress"
 s.summary = "Use a simple progress using lottie resources."
 
